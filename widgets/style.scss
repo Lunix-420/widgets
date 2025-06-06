@@ -30,6 +30,7 @@ window {
   font-family: "ComicShannsMono Nerd Font Mono";
   font-weight: 600;
   font-size: 48px;
+  color: $text;
 }
 
 .panel {
@@ -50,4 +51,16 @@ window {
 
 .time-home {
   font-size: 96px;
+}
+
+.time-others {
+  font-size: 32px;
+}
+
+.time-name {
+  color: $subtext0;
+}
+
+.time-dif {
+  color: $subtext0;
 }
